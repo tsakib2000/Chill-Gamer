@@ -46,3 +46,7 @@ Chill Gamer is designed to connect gamers around the globe, providing them with:
 - **React Tooltip**: Easy and customizable tooltips for UI components.
 - **SweetAlert2**: Beautiful and customizable popup alerts to enhance user interactions.
 - **React icons**: react icons used for beautification and easy navigation.
+
+
+## Run this command to install dependencies
+`npm i`
